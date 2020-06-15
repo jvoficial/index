@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Almoxarifado - Servidor</title>
+<style type="text/css">
+body {
+	background-color: #333;
+	background-image: url();
+	background-repeat: repeat-x;
+}
+body,td,th {
+	color: #F60;
+	font-size: 24px;
+}
+.font {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #333;
+}
+.button {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	appearance: button;
+	position: absolute;
+	left: 568px;
+	top: 426px;
+	background-color: #FF6600;
+	width: 280px;
+	height: 35px;
+	color: #FFF;
+	border-right-style: groove;
+	border: 0;
+}
+.button2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	appearance: button;
+	position: absolute;
+	left: 568px;
+	top: 470px;
+	background-color: #FF6600;
+	width: 280px;
+	height: 35px;
+	color: #FFF;
+	border-right-style: groove;
+	border: 0;
+}
+.grupo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	background-color: #333;
+	border-style: groove;
+	border-color: #FFF;
+	width: 1024px;
+	height: 50px;
+	position: absolute;
+	left: 201px;
+	alignment-baseline: central;
+	top: 474px;
+	appearance: button;
+}
+.grupo2 {
+	border-style: groove;
+	position: absolute;
+	left: 233px;
+	top: 495px;
+	width: 1023px;
+}
+</style>
+</head>
+
+<body class="font">
+<p align="center">&nbsp;</p>
+<p align="center"><img src="../../../Almoxarifado/icones/logo.png" width="540" height="139" /></p>
+<p align="center"><strong>
+Sistema do Almoxarifado da Secretaria Municipal de Saúde de Itapetinga </strong></p>
+
+<label>
+<div align="center"></div>
+</label>
+
+
+
+
+    </strong></label>
+<input name="button" type="button" class="button" id="button" value="Baixar Central de Controle" align="middle" />
+<input name="button2" type="button" class="button2" id="button2" value="Baixar Almoxarifado" />
